@@ -74,7 +74,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
 | [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
 | [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
-| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
+| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  | Done ✅ | hard 29/8 |
 | [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |Done ✅  | easy 29/8 |
 
 ---
