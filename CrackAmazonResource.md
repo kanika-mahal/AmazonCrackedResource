@@ -31,7 +31,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  |  |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) |Done ✅  |  Easy|
+| [Two Sum](https://leetcode.com/problems/two-sum/) |Done ✅  |  Easy| 29/8
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
@@ -54,7 +54,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
-| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
+| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  | Done ✅ | Easy | 29/8
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
